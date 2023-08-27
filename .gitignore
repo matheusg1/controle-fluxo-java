@@ -1,0 +1,18 @@
+# Arquivos de compilação
+*.class
+
+# Diretórios de compilação
+bin/
+target/
+
+# Arquivos gerados pela IDE
+.idea/
+.vscode/
+
+# Arquivos de configuração
+*.iml
+*.log
+*.properties
+
+# Arquivos de dependências
+lib/
